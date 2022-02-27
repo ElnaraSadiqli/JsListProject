@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+body{
+    background: url(../images/channelbackground.jpg) no-repeat ;
+    background-image: cover;
+   
+}
+
+#tv-list{
+margin: 4rem 1rem 4rem 20rem;
+
+form{
+  border: 2px solid  white;
+  background-color: hsla(0, 0%, 100%, 0.616);
+  color: rgba(70, 25, 175, 0.952);
+  label{
+    font-size: larger;
+    display: flex ;
+  }
+ 
+}
+
+}

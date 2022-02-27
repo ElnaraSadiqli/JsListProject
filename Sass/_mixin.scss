@@ -1,0 +1,5 @@
+@mixin borderF($width){
+    width: $width;
+    height: 50px;
+    border: 1.2px solid rgba(52, 52, 235, 0.562);
+}
